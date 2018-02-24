@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mousefromdk.github.io" resolutions="1x" timestamp="1519382835248">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mousefromdk.github.io" resolutions="1x" timestamp="1519472846261">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3908915668" ref="index"/>
@@ -16,5 +16,5 @@
     <file name="u113-4.png" crc="3871623807" ref="index"/>
     <file name="u124-4.png" crc="290597224" ref="index"/>
   </folder>
-  <file name="index.html" crc="287424855" seo="true" mt="1519381582648" redirect="true"/>
+  <file name="index.html" crc="4293864527" seo="true" mt="1519472830960" redirect="true"/>
 </manifest>
